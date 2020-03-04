@@ -1,0 +1,60 @@
+﻿[
+    {
+        "id": 590082920,
+        "url": "http://www.cashrewards.com.au",
+        "advertiserId": 16286,
+        "publisherId": 211491,
+        "commissionSharingPublisherId": null,
+        "siteName": "http://www.cashrewards.com.au",
+        "commissionStatus": "approved",
+        "commissionAmount": {
+            "amount": 1.84,
+            "currency": "AUD"
+        },
+        "saleAmount": {
+            "amount": 3.67,
+            "currency": "AUD"
+        },
+        "ipHash": null,
+        "customerCountry": null,
+        "clickRefs": {
+            "clickRef": "cgABVewS9jTaGQpwngKNjFgWQX"
+        },
+        "clickDate": "2019-12-11T01:05:26",
+        "transactionDate": "2019-12-11T02:13:06",
+        "validationDate": "2019-12-11T02:27:00",
+        "type": "Commission group transaction",
+        "declineReason": null,
+        "voucherCodeUsed": false,
+        "voucherCode": null,
+        "lapseTime": 43480,
+        "amended": false,
+        "amendReason": null,
+        "oldSaleAmount": null,
+        "oldCommissionAmount": null,
+        "clickDevice": "Windows",
+        "transactionDevice": null,
+        "publisherUrl": null,
+        "advertiserCountry": "AU",
+        "orderRef": "4e2f9e8a-168e-11ea-bb75-0242ac11000a",
+        "customParameters": null,
+        "transactionParts": [
+            {
+                "commissionGroupId": 251449,
+                "amount": 3.67,
+                "commissionAmount": 1.84,
+                "advertiserCost": null,
+                "commissionGroupCode": "FLIGHT",
+                "commissionGroupName": "FLIGHT"
+            }
+        ],
+        "paidToPublisher": false,
+        "paymentId": 0,
+        "transactionQueryId": 0,
+        "originalSaleAmount": null,
+        "advertiserCost": {
+            "amount": null,
+            "currency": null
+        }
+    }
+]
